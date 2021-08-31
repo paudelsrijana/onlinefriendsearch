@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/onlinefriendsearch/static/css/main.62996f44.chunk.css",
+    "main.js": "/onlinefriendsearch/static/js/main.d28737d6.chunk.js",
+    "main.js.map": "/onlinefriendsearch/static/js/main.d28737d6.chunk.js.map",
+    "runtime-main.js": "/onlinefriendsearch/static/js/runtime-main.7a4708ea.js",
+    "runtime-main.js.map": "/onlinefriendsearch/static/js/runtime-main.7a4708ea.js.map",
+    "static/js/2.c8c190fd.chunk.js": "/onlinefriendsearch/static/js/2.c8c190fd.chunk.js",
+    "static/js/2.c8c190fd.chunk.js.map": "/onlinefriendsearch/static/js/2.c8c190fd.chunk.js.map",
+    "index.html": "/onlinefriendsearch/index.html",
+    "static/css/main.62996f44.chunk.css.map": "/onlinefriendsearch/static/css/main.62996f44.chunk.css.map",
+    "static/js/2.c8c190fd.chunk.js.LICENSE.txt": "/onlinefriendsearch/static/js/2.c8c190fd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7a4708ea.js",
+    "static/js/2.c8c190fd.chunk.js",
+    "static/css/main.62996f44.chunk.css",
+    "static/js/main.d28737d6.chunk.js"
+  ]
+}
